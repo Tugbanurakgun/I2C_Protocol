@@ -1,0 +1,8 @@
+OpenCores:
+https://opencores.org/projects
+
+CircuitBasics:
+https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/
+
+AnalogDevices:
+https://www.analog.com/en/resources/analog-dialogue/articles/i2c-communication-protocol-understanding-i2c-primer-pmbus-and-smbus.html
